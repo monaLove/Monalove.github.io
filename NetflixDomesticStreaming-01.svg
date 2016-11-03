@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 960 560" style="enable-background:new 0 0 960 560;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:none;stroke:#D9D9D9;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{clip-path:url(#SVGID_4_);fill:#190A00;}
+	.st2{clip-path:url(#SVGID_6_);fill:#D43500;}
+	.st3{clip-path:url(#SVGID_8_);fill:#D43500;}
+	.st4{clip-path:url(#SVGID_10_);fill:#D43500;}
+	.st5{fill:#595959;}
+	.st6{font-family:'Verdana';}
+	.st7{font-size:12.4167px;}
+	.st8{font-family:'ArialMT';}
+	.st9{font-size:21.7292px;}
+	.st10{fill:#190A00;}
+	.st11{fill:none;stroke:#D9D9D9;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st12{fill:#D43500;}
+</style>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="205.1" y="113.7" width="558.8" height="335.3"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<path class="st0" d="M255.6,324"/>
+	</g>
+</g>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_3_" x="254.8" y="185.1" width="484.3" height="167.6"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+		</clipPath>
+		<path class="st1" d="M502.3,203.7h32.6v153.7h-32.6V203.7z M388.3,280.5h34.1v76.1h-34.1V280.5z M278.8,234H313v122.6h-34.1V234z"
+			/>
+	</g>
+</g>
+<g>
+	<g>
+		<defs>
+			<polyline id="SVGID_5_" points="314.5,185.1 314.5,352.7 719.6,353.5 719.6,185.8 			"/>
+		</defs>
+		<clipPath id="SVGID_6_">
+			<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+		</clipPath>
+		<rect x="535.7" y="218.4" class="st2" width="34.1" height="135"/>
+	</g>
+	<g>
+		<defs>
+			<polyline id="SVGID_7_" points="314.5,185.1 314.5,352.7 719.6,353.5 719.6,185.8 			"/>
+		</defs>
+		<clipPath id="SVGID_8_">
+			<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+		</clipPath>
+		<rect x="424" y="292.2" class="st3" width="32.6" height="60.5"/>
+	</g>
+	<g>
+		<defs>
+			<polyline id="SVGID_9_" points="314.5,185.1 314.5,352.7 719.6,353.5 719.6,185.8 			"/>
+		</defs>
+		<clipPath id="SVGID_10_">
+			<use xlink:href="#SVGID_9_"  style="overflow:visible;"/>
+		</clipPath>
+		<rect x="313.8" y="248.7" class="st4" width="32.6" height="104"/>
+	</g>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 205.6907 354.8324)" class="st5 st6 st7">3600</text>
+	<text transform="matrix(1 0 0 1 239.9915 354.8324)" class="st5 st6 st7">0</text>
+	<text transform="matrix(1 0 0 1 205.6907 327.0345)" class="st5 st6 st7">3800</text>
+	<text transform="matrix(1 0 0 1 239.9915 327.0345)" class="st5 st6 st7">0</text>
+	<text transform="matrix(1 0 0 1 205.6907 299.2367)" class="st5 st6 st7">4000</text>
+	<text transform="matrix(1 0 0 1 239.9915 299.2367)" class="st5 st6 st7">0</text>
+	<text transform="matrix(1 0 0 1 205.6907 271.4383)" class="st5 st6 st7">4200</text>
+	<text transform="matrix(1 0 0 1 239.9915 271.4383)" class="st5 st6 st7">0</text>
+	<text transform="matrix(1 0 0 1 205.6907 243.6405)" class="st5 st6 st7">4400</text>
+	<text transform="matrix(1 0 0 1 239.9915 243.6405)" class="st5 st6 st7">0</text>
+	<text transform="matrix(1 0 0 1 205.6907 215.8416)" class="st5 st6 st7">4600</text>
+	<text transform="matrix(1 0 0 1 239.9915 215.8416)" class="st5 st6 st7">0</text>
+	<text transform="matrix(1 0 0 1 205.6907 188.0438)" class="st5 st6 st7">4800</text>
+	<text transform="matrix(1 0 0 1 239.9915 188.0438)" class="st5 st6 st7">0</text>
+	<text transform="matrix(1 0 0 1 266.0784 368.8314)" class="st5 st6 st7">Dec.31, 2015</text>
+	<text transform="matrix(1 0 0 1 386.7278 368.054)" class="st5 st6 st7">Mar.31, 2015</text>
+	<text transform="matrix(1 0 0 1 501.1673 368.054)" class="st5 st6 st7">Mar.31,2016</text>
+	<text transform="matrix(1 0 0 1 206.0784 131.5203)" class="st5 st8 st9">Netflix Domestic Streaming</text>
+	<rect x="518.8" y="393" class="st10" width="7.8" height="6.2"/>
+	<text transform="matrix(1 0 0 1 531.9681 399.3861)" class="st5 st6 st7">T</text>
+	<text transform="matrix(1 0 0 1 538.9515 399.3861)" class="st5 st6 st7">ot</text>
+	<text transform="matrix(1 0 0 1 552.765 399.3861)" class="st5 st6 st7">a</text>
+	<text transform="matrix(1 0 0 1 560.2151 399.3861)" class="st5 st6 st7">l</text>
+	<text transform="matrix(1 0 0 1 564.2503 399.3861)" class="st5 st6 st7"> </text>
+	<text transform="matrix(1 0 0 1 568.2855 399.3861)" class="st5 st6 st7">mem</text>
+	<text transform="matrix(1 0 0 1 599.7933 399.3861)" class="st5 st6 st7">b</text>
+	<text transform="matrix(1 0 0 1 608.3304 399.3861)" class="st5 st6 st7">er</text>
+	<text transform="matrix(1 0 0 1 620.9017 399.3861)" class="st5 st6 st7">ship</text>
+	<text transform="matrix(1 0 0 1 649.1497 399.3861)" class="st5 st6 st7">s</text>
+	<text transform="matrix(1 0 0 1 654.8929 399.3861)" class="st5 st6 st7"> </text>
+	<text transform="matrix(1 0 0 1 658.928 399.3861)" class="st5 st6 st7">a</text>
+	<text transform="matrix(1 0 0 1 666.3782 399.3861)" class="st5 st6 st7">t</text>
+	<text transform="matrix(1 0 0 1 671.9651 399.3861)" class="st5 st6 st7"> </text>
+	<text transform="matrix(1 0 0 1 676.0013 399.3861)" class="st5 st6 st7">e</text>
+	<text transform="matrix(1 0 0 1 683.4505 399.3861)" class="st5 st6 st7">n</text>
+	<text transform="matrix(1 0 0 1 691.9876 399.3861)" class="st5 st6 st7">d</text>
+	<text transform="matrix(1 0 0 1 698.972 399.3861)" class="st5 st6 st7"> </text>
+	<text transform="matrix(1 0 0 1 703.0071 399.3861)" class="st5 st6 st7">o</text>
+	<text transform="matrix(1 0 0 1 711.2337 399.3861)" class="st5 st6 st7">f</text>
+	<text transform="matrix(1 0 0 1 715.7347 399.3861)" class="st5 st6 st7"> </text>
+	<text transform="matrix(1 0 0 1 719.6146 399.3861)" class="st5 st6 st7">p</text>
+	<text transform="matrix(1 0 0 1 728.1507 399.3861)" class="st5 st6 st7">er</text>
+	<text transform="matrix(1 0 0 1 740.8782 399.3861)" class="st5 st6 st7">i</text>
+	<text transform="matrix(1 0 0 1 743.5169 399.3861)" class="st5 st6 st7">o</text>
+	<text transform="matrix(1 0 0 1 751.7425 399.3861)" class="st5 st6 st7">d</text>
+	<text transform="matrix(1 0 0 1 285.6927 399.3861)" class="st5 st6 st7">Pa</text>
+	<text transform="matrix(1 0 0 1 300.5931 399.3861)" class="st5 st6 st7">id</text>
+	<text transform="matrix(1 0 0 1 313.1644 399.3861)" class="st5 st6 st7"> </text>
+	<text transform="matrix(1 0 0 1 317.1995 399.3861)" class="st5 st6 st7">mem</text>
+	<text transform="matrix(1 0 0 1 348.7073 399.3861)" class="st5 st6 st7">b</text>
+	<text transform="matrix(1 0 0 1 357.0882 399.3861)" class="st5 st6 st7">er</text>
+	<text transform="matrix(1 0 0 1 369.8157 399.3861)" class="st5 st6 st7">ship</text>
+	<text transform="matrix(1 0 0 1 398.0638 399.3861)" class="st5 st6 st7">s</text>
+	<text transform="matrix(1 0 0 1 403.8069 399.3861)" class="st5 st6 st7"> </text>
+	<text transform="matrix(1 0 0 1 407.8421 399.3861)" class="st5 st6 st7">a</text>
+	<text transform="matrix(1 0 0 1 415.2923 399.3861)" class="st5 st6 st7">t</text>
+	<text transform="matrix(1 0 0 1 420.8792 399.3861)" class="st5 st6 st7"> </text>
+	<text transform="matrix(1 0 0 1 424.9153 399.3861)" class="st5 st6 st7">e</text>
+	<text transform="matrix(1 0 0 1 432.3655 399.3861)" class="st5 st6 st7">n</text>
+	<text transform="matrix(1 0 0 1 440.9017 399.3861)" class="st5 st6 st7">d</text>
+	<text transform="matrix(1 0 0 1 447.886 399.3861)" class="st5 st6 st7"> </text>
+	<text transform="matrix(1 0 0 1 451.9212 399.3861)" class="st5 st6 st7">o</text>
+	<text transform="matrix(1 0 0 1 460.1468 399.3861)" class="st5 st6 st7">f</text>
+	<text transform="matrix(1 0 0 1 464.4935 399.3861)" class="st5 st6 st7"> </text>
+	<text transform="matrix(1 0 0 1 468.5286 399.3861)" class="st5 st6 st7">p</text>
+	<text transform="matrix(1 0 0 1 476.9095 399.3861)" class="st5 st6 st7">er</text>
+	<text transform="matrix(1 0 0 1 489.637 399.3861)" class="st5 st6 st7">i</text>
+	<text transform="matrix(1 0 0 1 492.431 399.3861)" class="st5 st6 st7">o</text>
+	<text transform="matrix(1 0 0 1 500.6566 399.3861)" class="st5 st6 st7">d</text>
+	<polygon class="st11" points="206.1,113.9 763.3,112.9 763.3,446.6 206.1,447.6 	"/>
+</g>
+<rect x="274.8" y="391.5" class="st12" width="7.3" height="6.2"/>
+</svg>
